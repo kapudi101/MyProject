@@ -95,7 +95,7 @@ public class GlobalSearchTests {
 		int quantity = Integer.parseInt(itemsQty);
 		
 		// GIVEN I searched for a brand on home page
-		hp.closesNewTabAndSwitchBackParentTab();
+		hp.closesNewTabAndSwitchBackToParentTab();
 		hp.goToHomePage();		
 		hp.enterBrandToSearch(brand);		
 		hp.pressEnterKey();
