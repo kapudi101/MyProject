@@ -134,7 +134,7 @@ public class BasePage {
 		}
 	}
     
-    public void closesNewTabAndSwitchBackParentTab() {
+    public void closesNewTabAndSwitchBackToParentTab() {
     	Set<String> handles = driver.getWindowHandles();
     	Iterator<String> iterator = handles.iterator();
     	String parentWindowHandle = iterator.next();
