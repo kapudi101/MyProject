@@ -41,7 +41,7 @@ public class FreeDeliveryAlertTests {
 			String brand, String itemsQty) throws Throwable {
 		
 		// GIVEN I added item/s to card
-		//hp.closesNewTabAndSwitchBackParentTab();
+		hp.closesNewTabAndSwitchBackParentTab();
 		hp.goToHomePage();
 		hp.enterBrandToSearch(brand);
 		hp.pressEnterKey();
