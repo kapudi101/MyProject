@@ -1,0 +1,8 @@
+pages\ShoppingCartPage.class
+pages\DailyDealsPage.class
+pages\HomePage.class
+pages\ItemsPage.class
+framework\ExcelReader.class
+framework\BasePage.class
+pages\ItemDetailsPage.class
+framework\Utilities.class

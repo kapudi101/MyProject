@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This brand has 461 items available]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235920.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235920.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Expected text is "Added to cart"; text displayed on pop-up is "Added to cart"]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235936.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235936.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Item price for Fervour is R 499.0]]>
+    </line>
+    <line>
+      <![CDATA[Selected quantity for Fervour is 2]]>
+    </line>
+    <line>
+      <![CDATA[Calculated total price for Fervour items is R 998.0]]>
+    </line>
+    <line>
+      <![CDATA[Displayed total price for Fervour items is R 998.0]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235957.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235957.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Item price for LG is R 3859.0]]>
+    </line>
+    <line>
+      <![CDATA[Selected quantity for LG is 7]]>
+    </line>
+    <line>
+      <![CDATA[Calculated total price for LG items is R 27013.0]]>
+    </line>
+    <line>
+      <![CDATA[Displayed total price for LG items is R 27013.0]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000019.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000019.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Item price for GoPro is R 8299.0]]>
+    </line>
+    <line>
+      <![CDATA[Selected quantity for GoPro is 5]]>
+    </line>
+    <line>
+      <![CDATA[Calculated total price for GoPro items is R 41495.0]]>
+    </line>
+    <line>
+      <![CDATA[Displayed total price for GoPro items is R 41495.0]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000040.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000040.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Item price for Aloma is R 1549.0]]>
+    </line>
+    <line>
+      <![CDATA[Selected quantity for Aloma is 9]]>
+    </line>
+    <line>
+      <![CDATA[Calculated total price for Aloma items is R 13941.0]]>
+    </line>
+    <line>
+      <![CDATA[Displayed total price for Aloma items is R 13941.0]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000100.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000100.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Item price for Samsung is R 2899.0]]>
+    </line>
+    <line>
+      <![CDATA[Selected quantity for Samsung is 3]]>
+    </line>
+    <line>
+      <![CDATA[Calculated total price for Samsung items is R 8697.0]]>
+    </line>
+    <line>
+      <![CDATA[Displayed total price for Samsung items is R 8697.0]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000120.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000120.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA["Spend R450 or more to get FREE DELIVERY. T&Cs apply" is displayed on page]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000154.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000154.png' height='200' width='200'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[The FREE DELIVERY alert message has disappeared on page]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000339.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000339.png' height='200' width='200'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-12-20T23:59:09 SAST" name="Global Search Tests Suite" finished-at="2021-12-21T00:03:40 SAST" duration-ms="271043">
+    <groups>
+    </groups>
+    <test started-at="2021-12-20T23:59:09 SAST" name="Takealot" finished-at="2021-12-21T00:03:40 SAST" duration-ms="271043">
+      <class name="tests.FreeDeliveryAlertTests">
+        <test-method signature="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears(java.lang.String,java.lang.String)[pri:0, instance:tests.FreeDeliveryAlertTests@781f10f2]" started-at="2021-12-21T00:01:37 SAST" name="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears" data-provider="getTestData" finished-at="2021-12-21T00:01:54 SAST" duration-ms="17326" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tea, Coffee, Cremora & Weetbix Combo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA["Spend R450 or more to get FREE DELIVERY. T&Cs apply" is displayed on page]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000154.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000154.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears -->
+        <test-method signature="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears(java.lang.String,java.lang.String)[pri:0, instance:tests.FreeDeliveryAlertTests@781f10f2]" started-at="2021-12-21T00:01:54 SAST" name="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears" data-provider="getTestData" finished-at="2021-12-21T00:03:39 SAST" duration-ms="105211" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ceres Mango Fruit Juice ( 24 x 200ml)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The FREE DELIVERY alert message has disappeared on page]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000339.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000339.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.FreeDeliveryAlertTests@781f10f2]" started-at="2021-12-21T00:03:40 SAST" name="closeBrowser" finished-at="2021-12-21T00:03:41 SAST" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.FreeDeliveryAlertTests -->
+      <class name="tests.GlobalSearchTests">
+        <test-method is-config="true" signature="acceptCookies()[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-20T23:59:09 SAST" name="acceptCookies" finished-at="2021-12-20T23:59:12 SAST" duration-ms="3598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptCookies -->
+        <test-method signature="TC1_Given_LandedOnHomePage_When_BrandIsSearched_Then_NumberOfItemsMustBeMoreThanZero()[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-20T23:59:12 SAST" name="TC1_Given_LandedOnHomePage_When_BrandIsSearched_Then_NumberOfItemsMustBeMoreThanZero" finished-at="2021-12-20T23:59:20 SAST" duration-ms="7727" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This brand has 461 items available]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235920.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235920.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1_Given_LandedOnHomePage_When_BrandIsSearched_Then_NumberOfItemsMustBeMoreThanZero -->
+        <test-method signature="TC2_Given_BrandIsSearched_And_FirstItemSelected_When_ItemIsAddedToCart_Then_AddedToCartIsDisplayed()[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-20T23:59:21 SAST" name="TC2_Given_BrandIsSearched_And_FirstItemSelected_When_ItemIsAddedToCart_Then_AddedToCartIsDisplayed" finished-at="2021-12-20T23:59:36 SAST" duration-ms="15152" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Expected text is "Added to cart"; text displayed on pop-up is "Added to cart"]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235936.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235936.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2_Given_BrandIsSearched_And_FirstItemSelected_When_ItemIsAddedToCart_Then_AddedToCartIsDisplayed -->
+        <test-method signature="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed(java.lang.String,java.lang.String)[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-20T23:59:37 SAST" name="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed" data-provider="getTestData" finished-at="2021-12-20T23:59:57 SAST" duration-ms="19378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fervour]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Item price for Fervour is R 499.0]]>
+            </line>
+            <line>
+              <![CDATA[Selected quantity for Fervour is 2]]>
+            </line>
+            <line>
+              <![CDATA[Calculated total price for Fervour items is R 998.0]]>
+            </line>
+            <line>
+              <![CDATA[Displayed total price for Fervour items is R 998.0]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235957.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess235957.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed -->
+        <test-method signature="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed(java.lang.String,java.lang.String)[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-20T23:59:57 SAST" name="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed" data-provider="getTestData" finished-at="2021-12-21T00:00:19 SAST" duration-ms="22046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LG]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Item price for LG is R 3859.0]]>
+            </line>
+            <line>
+              <![CDATA[Selected quantity for LG is 7]]>
+            </line>
+            <line>
+              <![CDATA[Calculated total price for LG items is R 27013.0]]>
+            </line>
+            <line>
+              <![CDATA[Displayed total price for LG items is R 27013.0]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000019.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000019.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed -->
+        <test-method signature="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed(java.lang.String,java.lang.String)[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-21T00:00:19 SAST" name="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed" data-provider="getTestData" finished-at="2021-12-21T00:00:40 SAST" duration-ms="20970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GoPro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Item price for GoPro is R 8299.0]]>
+            </line>
+            <line>
+              <![CDATA[Selected quantity for GoPro is 5]]>
+            </line>
+            <line>
+              <![CDATA[Calculated total price for GoPro items is R 41495.0]]>
+            </line>
+            <line>
+              <![CDATA[Displayed total price for GoPro items is R 41495.0]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000040.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000040.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed -->
+        <test-method signature="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed(java.lang.String,java.lang.String)[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-21T00:00:40 SAST" name="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed" data-provider="getTestData" finished-at="2021-12-21T00:01:00 SAST" duration-ms="19527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aloma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Item price for Aloma is R 1549.0]]>
+            </line>
+            <line>
+              <![CDATA[Selected quantity for Aloma is 9]]>
+            </line>
+            <line>
+              <![CDATA[Calculated total price for Aloma items is R 13941.0]]>
+            </line>
+            <line>
+              <![CDATA[Displayed total price for Aloma items is R 13941.0]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000100.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000100.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed -->
+        <test-method signature="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed(java.lang.String,java.lang.String)[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-21T00:01:00 SAST" name="TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed" data-provider="getTestData" finished-at="2021-12-21T00:01:20 SAST" duration-ms="20257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Item price for Samsung is R 2899.0]]>
+            </line>
+            <line>
+              <![CDATA[Selected quantity for Samsung is 3]]>
+            </line>
+            <line>
+              <![CDATA[Calculated total price for Samsung items is R 8697.0]]>
+            </line>
+            <line>
+              <![CDATA[Displayed total price for Samsung items is R 8697.0]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000120.png'> <img src='C:\Users\Kapudi.Leshaba\Documents\eclipse-workspace\EndToEnd\target\surefire-reports-20211220215845\images\onTestSuccess000120.png' height='200' width='200'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3_Given_ItemsAddedToCart_When_AddingUpTotalPricePerBrand_Then_CorrectCartValueIsDisplayed -->
+        <test-method is-config="true" signature="clearCart()[pri:0, instance:tests.GlobalSearchTests@3a1dd365]" started-at="2021-12-21T00:01:21 SAST" name="clearCart" finished-at="2021-12-21T00:01:36 SAST" duration-ms="15888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCart -->
+      </class> <!-- tests.GlobalSearchTests -->
+    </test> <!-- Takealot -->
+  </suite> <!-- Global Search Tests Suite -->
+</testng-results>

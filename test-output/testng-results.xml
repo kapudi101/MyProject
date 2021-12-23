@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA["Spend R450 or more to get FREE DELIVERY. T&Cs apply" is displayed on page]]>
+    </line>
+    <line>
+      <![CDATA[The FREE DELIVERY alert message has disappeared on page]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-12-23T14:49:16 SAST" name="Default suite" finished-at="2021-12-23T14:51:07 SAST" duration-ms="111072">
+    <groups>
+    </groups>
+    <test started-at="2021-12-23T14:49:16 SAST" name="Default test" finished-at="2021-12-23T14:51:07 SAST" duration-ms="111072">
+      <class name="tests.FreeDeliveryAlertTests">
+        <test-method signature="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears(java.lang.String,java.lang.String)[pri:0, instance:tests.FreeDeliveryAlertTests@625abb97]" started-at="2021-12-23T14:49:16 SAST" name="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears" data-provider="getTestData" finished-at="2021-12-23T14:49:27 SAST" duration-ms="10312" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tea, Coffee, Cremora & Weetbix Combo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA["Spend R450 or more to get FREE DELIVERY. T&Cs apply" is displayed on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears -->
+        <test-method signature="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears(java.lang.String,java.lang.String)[pri:0, instance:tests.FreeDeliveryAlertTests@625abb97]" started-at="2021-12-23T14:49:27 SAST" name="TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears" data-provider="getTestData" finished-at="2021-12-23T14:51:07 SAST" duration-ms="100028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ceres Mango Fruit Juice ( 24 x 200ml)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[The FREE DELIVERY alert message has disappeared on page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC4_Given_AlertToQualifyForFreeDeliveryDisplayed_When_MoreItemsAddedToQualify_Then_AlertDisappears -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.FreeDeliveryAlertTests@625abb97]" started-at="2021-12-23T14:51:07 SAST" name="closeBrowser" finished-at="2021-12-23T14:51:07 SAST" duration-ms="478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.FreeDeliveryAlertTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
