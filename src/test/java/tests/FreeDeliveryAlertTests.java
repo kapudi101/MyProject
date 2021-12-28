@@ -41,7 +41,7 @@ public class FreeDeliveryAlertTests {
 			String brand, String itemsQty) throws Throwable {
 		
 		// GIVEN I added item/s to card
-		//hp.closesNewTabAndSwitchBackParentTab();
+		hp.closesNewTabAndSwitchBackToParentTab();
 		hp.goToHomePage();
 		hp.enterBrandToSearch(brand);
 		hp.pressEnterKey();
@@ -49,7 +49,7 @@ public class FreeDeliveryAlertTests {
 		idp.addItemToCart();
 		idp.clickGoToCart();
 		
-		// WHEN items on cart are cost less than R450
+		// WHEN items on cart cost less than R450
 		if (scp.getfreeDeliveryElements() >= 1) {			
 			Reporter.log("\"" + scp.getFreeDeliveryAlert() + "\"" + " is displayed on page");
 			
